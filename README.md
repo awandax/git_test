@@ -1,0 +1,1 @@
+This is Awandax's first git project. Now GIT!
